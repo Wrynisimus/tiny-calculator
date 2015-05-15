@@ -89,7 +89,7 @@ if choice == 'fuck you':
 # Literally a fucking program, inside of a program. Holy shit m80
 
 if choice == 'u':
-	print("Hello I am calulator's brother, 'Converter'" "I am still in Fuckin Alpha")
+	print("Hello I am calulator's brother, 'Converter'" "I am still in Alpha")
 	time.sleep(1)
 	print("Press 1 for Fahrenheit to Celsius")
 	time.sleep(.5)
